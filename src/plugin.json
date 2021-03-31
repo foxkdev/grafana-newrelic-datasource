@@ -35,7 +35,7 @@
     {
       "path": "insights",
       "method": "*",
-      "url": "https://insights-api.newrelic.com/v1/accounts",
+      "url": "https://insights-api.eu.newrelic.com/v1/accounts",
       "headers": [
         {
           "name": "X-Query-Key",
